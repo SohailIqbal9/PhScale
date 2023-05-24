@@ -1,0 +1,140 @@
+body {
+    margin: 0%;
+    padding: 0%;
+}
+
+.color1 {
+    background-color: rgba(0, 0, 255, 0.9);
+    height: 40px;
+    color: #fff;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+}
+
+.color2 {
+    background-color: rgba(0, 0, 255, 0.8);
+    height: 40px;
+    color: #fff;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    
+}
+
+.color3 {
+    background-color: rgba(0, 0, 255, 0.7);
+    height: 40px;
+    color: #fff;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+}
+
+.color4 {
+    background-color: rgba(0, 0, 255, 0.6);
+    height: 40px;
+    color: #fff;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+}
+
+.color5 {
+    background-color: rgba(0, 0, 255, 0.5);
+    height: 40px;
+    color: #fff;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+}
+
+.color6 {
+    background-color: rgba(0, 0, 255, 0.4);
+    height: 40px;
+    color: #fff;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+}
+
+.color7 {
+    background-color: rgba(0, 0, 255, 0.3);
+    height: 40px;
+    color: #fff;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+}
+
+.color8 {
+    background-color: rgb(73, 192, 73);
+    height: 40px;
+    color: #fff;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+}
+
+.color9 {
+    background-color: rgba(250, 100, 123, 0.3);
+    height: 40px;
+    color: #fff;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+}
+
+.color10 {
+    background-color: rgba(250, 100, 123, 0.4);
+    height: 40px;
+    color: #fff;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+}
+
+.color11 {
+    background-color: rgba(250, 100, 123, 0.5);
+    height: 40px;
+    color: #fff;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+}
+
+.color12 {
+    background-color: rgba(250, 100, 123, 0.6);
+    height: 40px;
+    color: #fff;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+}
+
+.color13 {
+    background-color: rgba(250, 100, 123, 0.7);
+    height: 40px;
+    color: #fff;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+}
+
+.color14 {
+    background-color: rgba(250, 100, 123, 0.8);
+    height: 40px;
+    color: #fff;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+}
+
+.color15 {
+    background-color: rgba(250, 100, 123, 0.9);
+    height: 40px;
+    color: #fff;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+}
